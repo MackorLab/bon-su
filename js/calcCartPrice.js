@@ -36,9 +36,10 @@ function calcCartPriceAndDelivery() {
 	}
 	
 	
+
+	
+}
 document.querySelector("#submits").oncontextmenu = function(){
   alert("Вы нажали на кнопку");
   return false
-}
-	
 }
