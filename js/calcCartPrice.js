@@ -39,7 +39,7 @@ function calcCartPriceAndDelivery() {
 
 	
 }
-document.querySelector("#submits").oncontextmenu = function(){
+
+document.querySelector("#submits").onclick = function(){
   alert("Вы нажали на кнопку");
-  return false
 }
