@@ -17,7 +17,7 @@ function calcCartPriceAndDelivery() {
 		// Добавляем стоимость товара в общую стоимость (кол-во * цену)
 		priceTotal += parseInt(item.innerText) * parseInt(amountEl.innerText);
 		prices = priceTotal;
-		console.log(prices);
+		
 	});
 
 	// Отображаем цену на странице
@@ -45,5 +45,9 @@ function calcCartPriceAndDelivery() {
 }
 
 document.querySelector("#submits").onclick = function(){
-  alert(prices);
+console.log(prices);
+console.log(prices);
+console.log(prices);
+console.log(prices);	
+console.log(prices);	
 }
