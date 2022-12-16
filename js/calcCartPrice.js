@@ -7,7 +7,7 @@ function calcCartPriceAndDelivery() {
 
 	// Общая стоимость товаров
 	let priceTotal = 0;
-        priceTot = priceTotal;
+       
 	// Обходим все блоки с ценами в корзине
 	priceElements.forEach(function (item) {
 		// Находим количество товара
@@ -34,4 +34,11 @@ function calcCartPriceAndDelivery() {
 		deliveryCost.classList.remove('free');
 		deliveryCost.innerText = '250 ₽';
 	}
+	
+	
+document.querySelector("#submit").oncontextmenu = function(){
+  alert("Вы нажали на кнопку");
+  return false
+}
+	
 }
