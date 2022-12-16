@@ -7,7 +7,7 @@ function calcCartPriceAndDelivery() {
 
 	// Общая стоимость товаров
 	let priceTotal = 0;
-
+        priceTot = priceTotal;
 	// Обходим все блоки с ценами в корзине
 	priceElements.forEach(function (item) {
 		// Находим количество товара
