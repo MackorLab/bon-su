@@ -47,8 +47,5 @@ function calcCartPriceAndDelivery() {
 document.querySelector("#submits").onclick = function(){
 console.log(prices);
 console.log(cartWrapper);
-console.log(priceElement);
-console.log(totalPriceEl);	
-console.log(deliveryCost);
-console.log(cartDelivery);	
+	
 }
