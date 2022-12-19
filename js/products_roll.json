@@ -1,6 +1,6 @@
 [
 	{
-		"id": 1,
+		"id": 11,
 		"title": "Филадельфия хит ролл_1",
 		"itemsInBox": 6,
 		"weight": 180,
@@ -8,7 +8,7 @@
 		"imgSrc": "philadelphia.jpg"
 	},
 	{
-		"id": 2,
+		"id": 12,
 		"title": "Калифорния темпура",
 		"itemsInBox": 6,
 		"weight": 205,
@@ -16,7 +16,7 @@
 		"imgSrc": "california-tempura.jpg"
 	},
 	{
-		"id": 3,
+		"id": 13,
 		"title": "Запеченый ролл «Калифорния»",
 		"itemsInBox": 6,
 		"weight": 182,
@@ -24,7 +24,7 @@
 		"imgSrc": "zapech-california.jpg"
 	},
 	{
-		"id": 4,
+		"id": 14,
 		"title": "Филадельфия  Авокадо",
 		"itemsInBox": 6,
 		"weight": 230,
