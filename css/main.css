@@ -138,6 +138,10 @@ img {
     border-color: #eb5a1e;
 }
 
+.card-body {
+    background-color: #e1e1e3;
+}
+
 .cart-item {
 
 }
