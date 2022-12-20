@@ -138,7 +138,10 @@ img {
     border-color: #eb5a1e;
 }
 
-
+.card-body {
+   background-image: url(https://i.ibb.co/VMZN8W7/Screenshot-381.jpg);
+   background-position: center;
+}
 
 .cart-item {
 
