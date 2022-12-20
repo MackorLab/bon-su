@@ -92,7 +92,7 @@ document.querySelector("#rolss").onclick = function(){
 
 
 
-function renderProducts(productsArray) {
+ async function renderProducts(productsArray) {
     productsArray.forEach(function (item) {
         const productHTML = `<div class="col-md-6">
 						<div class="card mb-4" data-id="${item.id}">
