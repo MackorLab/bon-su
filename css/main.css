@@ -139,8 +139,8 @@ img {
 }
 
 .card-body {
-background: rgb(241,205,17);
-background: linear-gradient(90deg, rgba(241,205,17,1) 0%, rgba(246,151,16,1) 46%, rgba(252,90,62,1) 100%);
+background: rgb(241,220,17);
+background: linear-gradient(45deg, rgba(241,220,17,1) 22%, rgba(241,205,17,1) 35%, rgba(246,151,16,1) 59%, rgba(252,212,62,1) 85%);
    
 }
 
