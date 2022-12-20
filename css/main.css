@@ -138,9 +138,9 @@ img {
     border-color: #eb5a1e;
 }
 
-.card mb-4 {
-   background-image: url(https://i.ibb.co/VMZN8W7/Screenshot-381.jpg);
-   background-position: center;
+.card-body {
+  background: rgb(241,205,17);
+background: linear-gradient(90deg, rgba(241,205,17,1) 0%, rgba(246,151,16,1) 46%, rgba(218,77,6,1) 100%);
    
 }
 
