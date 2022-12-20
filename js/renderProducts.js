@@ -124,9 +124,9 @@ document.querySelector("#rolss").onclick = function(){
 							</div>
 						</div>
 					</div>`;
-       // productsContainer.insertAdjacentHTML('beforeend', productHTML);
+       productsContainer.insertAdjacentHTML('beforeend', productHTML);
 
-        productsContainer.innerHTML = productHTML;
+       // productsContainer.innerHTML = productHTML;
 
     });
 }
